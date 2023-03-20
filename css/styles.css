@@ -155,8 +155,7 @@ textarea {
   padding-left: 36px;
   transition: color, fill, 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.form-item:focus,
-.form-item:hover {
+.form-item:focus {
   fill: #2196f3;
   transition: fill, 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
